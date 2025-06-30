@@ -55,6 +55,28 @@ As a final step in this section I answered the question "What is the meaning of 
 <p align="center">There was only one question in this sections: "What is the system variable for the Windows folder?" which I answered with %windir%<br/>
   <img src="https://github.com/user-attachments/assets/beddce73-b8aa-4b1f-ab1a-376a44abc842" height="80%" width="80%" alt="white background with the question in black text and the answer in a gray rectangle with rounded corners and next to the answer field is a lime green correct answer. The question says What is the system variable for the Windows folder and the answer says modulo win dir modulo."/>
 </p>
+- <b>User Accounts, Profiles, and Permissions</b>
+<p>Description</p>
+<br>
+<p align="center">Step One: <br/>
+  <img src="" height="80%" width="80%" alt="image one"/>
+  <br />
+  <br />
+  Step Two: <br />
+  <img src="" height="80%" width="80%" alt="image two"/>
+  <br />
+  <br />
+  Step Three: <br />
+  <img src="" height="80%" width="80%" alt="image three"/>
+   <br />
+  <br />
+  Step Four: <br />
+  <img src="" height="80%" width="80%" alt="image four"/>
+   <br />
+  <br />
+  Step Five: <br />
+  <img src="" height="80%" width="80%" alt="image five"/>
+</p>
 - <b>Section Name</b>
 <p>Description</p>
 <br>
