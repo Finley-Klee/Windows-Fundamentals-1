@@ -49,6 +49,12 @@ After exploring and finding those options in the various menus I was able to cor
 As a final step in this section I answered the question "What is the meaning of NTFS?" with the answer "New Technology File System".<br />
   <img src="https://github.com/user-attachments/assets/0641af50-c66c-4ed3-815f-7eddff7c6219" height="80%" width="80%" alt="white background with the question in black text and the answer in a gray rectangle with rounded corners and next to the answer field is a lime green correct answer. The question says what is the meaning of NTFS and the answer says new technology file system."/>
 </p>
+- <b>The Windows\System32 Folders</b>
+<p>This very short section gave a brief overview of where the Windows operating system and environment variables are stored in the file system and cautioned against making uninformed modifications to the System32 folder where critical files for the operating system are stored. Sometimes it's just as important to know what not to do!</p>
+<br>
+<p align="center">There was only one question in this sections: "What is the system variable for the Windows folder?" which I answered with %windir%<br/>
+  <img src="https://github.com/user-attachments/assets/beddce73-b8aa-4b1f-ab1a-376a44abc842" height="80%" width="80%" alt="white background with the question in black text and the answer in a gray rectangle with rounded corners and next to the answer field is a lime green correct answer. The question says What is the system variable for the Windows folder and the answer says modulo win dir modulo."/>
+</p>
 - <b>Section Name</b>
 <p>Description</p>
 <br>
