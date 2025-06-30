@@ -39,27 +39,15 @@ For the last question in this section, "Besides Clock and Network, what other ic
 After exploring and finding those options in the various menus I was able to correctly answer all of the section questions.<br />
   <img src="https://github.com/user-attachments/assets/ef40e855-ce4e-424f-b26e-db457d4540eb" height="80%" width="80%" alt="white background with green text that reads answer the questions below followed by 3 question and answer pairs. The questions are printed in black and the answers are in gray rounded rectangles with lime green correct answer icons to the right of the answer. Question 1 reads which selection will hide disable the search box and the answer reads hidden. Question 2 reads which selection will hide disable the task view button and the answer reads show task view button. Question 3 reads besides clock and network what other icon is visible in the notification area and the answer reads action center."/>
 </p>
-- <b>Section Name</b>
-<p>Description</p>
+- <b>The File System</b>
+<p>In this section I learned about the file system currently in use in the Windows OS - New Technology File System (NTFS). I also read about past file systems like FAT16/FAT32 which are still in use for flash media, and HPFS (High Performance File System). Some of the limitations of previous file systems addressed by NTFS are file size, the ability to set specific permissions on folders and files, folder and file compression, and encryption.</p>
 <br>
-<p align="center">Step One: <br/>
-  <img src="" height="80%" width="80%" alt="image one"/>
+<p align="center">After reading about the file system I learned the different permission types (full control, modify, read & execute, list folder contents, read, and write) and where to view the permissions for a given folder or file. Here is an example image of where to find this information in the security tab of of the properties window for a folder.<br/>
+  <img src="https://github.com/user-attachments/assets/f366d923-8cec-46c5-815e-c8f7798338e4" height="80%" width="80%" alt="a set of windows from the C drive of a windows computer to the far left this pc is selected, then to the right of that a folder with the name Windows is selected in the windows properties to the right of that column the middle tab, security, is indicated with a red rectangle, below that in the group or user names the line Users is highlighted in blue and the bottom of the window shows the permissions for users. From the list on the left which reads top to bottom Full control, Modify, Read and execute, list folder contents, read, and lastly write, the options for read and execute, list folder contents, and read have check marks in the allow column to in the middle of the window."/>
   <br />
   <br />
-  Step Two: <br />
-  <img src="" height="80%" width="80%" alt="image two"/>
-  <br />
-  <br />
-  Step Three: <br />
-  <img src="" height="80%" width="80%" alt="image three"/>
-   <br />
-  <br />
-  Step Four: <br />
-  <img src="" height="80%" width="80%" alt="image four"/>
-   <br />
-  <br />
-  Step Five: <br />
-  <img src="" height="80%" width="80%" alt="image five"/>
+As a final step in this section I answered the question "What is the meaning of NTFS?" with the answer "New Technology File System".<br />
+  <img src="https://github.com/user-attachments/assets/0641af50-c66c-4ed3-815f-7eddff7c6219" height="80%" width="80%" alt="white background with the question in black text and the answer in a gray rectangle with rounded corners and next to the answer field is a lime green correct answer. The question says what is the meaning of NTFS and the answer says new technology file system."/>
 </p>
 - <b>Section Name</b>
 <p>Description</p>
@@ -83,4 +71,3 @@ After exploring and finding those options in the various menus I was able to cor
   Step Five: <br />
   <img src="" height="80%" width="80%" alt="image five"/>
 </p>
-
