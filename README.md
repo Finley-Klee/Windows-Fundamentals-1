@@ -2,12 +2,7 @@
 This is a walkthrough of the TryHackMe room of the same name found here: https://tryhackme.com/room/windowsfundamentals1xbx. It is part of the Cyber Security 101 learning path.
 
 <h2>Description</h2>
-Insert a short description of the project
-
-<h2>Utilities Used</h2>
-
-- <b>Number 1</b> 
-- <b>Number 2</b>
+The Windows fundamentals module from TryHackMe provides a general overview of the Windows OS. I improved my ability to navigate the user interface and make system changes by completing this walkthrough.
 
 <h2>Environments Used </h2>
 
@@ -25,6 +20,25 @@ Insert a short description of the project
 </p>
 <br />
 <br />
+- <b>The Desktop (GUI)</b>
+<p>This section gave a map for the Windows desktop, start menu, and various settings such as display, background, and the taskbar. </p>
+<br>
+<p align="center">After reading about navigating the desktop, and using the attached virtual machine to explore myself, I searched the desktop environment for the answers to the questions at the end of the sectio. The First question was "Which selection will hide/disable the Search box?" I found the answer to this question by right clicking on the taskbar and then clicking on search, which gave me the option to either show search icon, or select hidden.<br/>
+  <img src="https://github.com/user-attachments/assets/5e9e31b0-ecea-4664-9e3d-0e291badf01b" height="80%" width="80%" alt="dark gray menu for the taskbar settings with search selected. A second smaller menu is seen to the right of the main menu with the options hidden and show search icon. A red rectangle is around this smaller menu to draw attention to this information."/>
+  <br />
+  <br />
+In the same taskbar menu, I can see an option which answers the second question "Which selection will hide/disable the Task View button?" Currently the selection "Show task view button" has a checkmark next to it, indicating it is currently enabled. By clicking it again I can disable it.<br />
+  <img src="https://github.com/user-attachments/assets/30d83f6f-e049-430f-92cf-652b9d6ebfe6" height="80%" width="80%" alt="dark gray menu for the taskbar with a red rectangle around the option show task view button"/>
+  <br />
+  <br />
+For the last question in this section, "Besides Clock and Network, what other icon is visible in the Notification Area?" I found the name of the icon by right clicking on it, which brought up a menu that says "open action center" at the top. From this I was able to conclude that the icon in the notification area is that for the action center.
+<br />
+  <img src="https://github.com/user-attachments/assets/72b9d263-436d-4203-824e-81df8d6cc951" height="80%" width="80%" alt="the action center menu is shown with a red rectangle around the option open action center"/>
+   <br />
+  <br />
+After exploring and finding those options in the various menus I was able to correctly answer all of the section questions.<br />
+  <img src="https://github.com/user-attachments/assets/ef40e855-ce4e-424f-b26e-db457d4540eb" height="80%" width="80%" alt="white background with green text that reads answer the questions below followed by 3 question and answer pairs. The questions are printed in black and the answers are in gray rounded rectangles with lime green correct answer icons to the right of the answer. Question 1 reads which selection will hide disable the search box and the answer reads hidden. Question 2 reads which selection will hide disable the task view button and the answer reads show task view button. Question 3 reads besides clock and network what other icon is visible in the notification area and the answer reads action center."/>
+</p>
 - <b>Section Name</b>
 <p>Description</p>
 <br>
@@ -47,5 +61,26 @@ Insert a short description of the project
   Step Five: <br />
   <img src="" height="80%" width="80%" alt="image five"/>
 </p>
-
+- <b>Section Name</b>
+<p>Description</p>
+<br>
+<p align="center">Step One: <br/>
+  <img src="" height="80%" width="80%" alt="image one"/>
+  <br />
+  <br />
+  Step Two: <br />
+  <img src="" height="80%" width="80%" alt="image two"/>
+  <br />
+  <br />
+  Step Three: <br />
+  <img src="" height="80%" width="80%" alt="image three"/>
+   <br />
+  <br />
+  Step Four: <br />
+  <img src="" height="80%" width="80%" alt="image four"/>
+   <br />
+  <br />
+  Step Five: <br />
+  <img src="" height="80%" width="80%" alt="image five"/>
+</p>
 
