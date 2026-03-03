@@ -75,6 +75,12 @@ As a final step in this section I answered the question "What is the meaning of 
  There was one other question, "What built-in account is for guest access to the computer?" and, logically, this is called guest.<br />
   <img src="https://github.com/user-attachments/assets/fc4d5773-f71f-44f4-9fb4-c11e2fbc4dda" width="80%" alt="try hack me question and answer section with a white background and lime green accents. The questions and answers correspond to what was laid out in the previous steps."/>
 </p>
+- <b>User Account Control</b>
+<p>Most home users are logged into their Windows systems as local administrators, giving them high level privileges to make system changes. These elevated privileges are unnecessary for the majority of the tasks they will do like surfing the web, working on a word document, etc. Because this opens the system up to risk if malware is able to infect the system, Microsoft introduced User Account Control (UAC). UAC limits the permissions of administrator accounts (besides the built-in local administrator by default) and when an action requiring elevated privileges needs to execute, the user is prompted to confirm if they permit the operation to run.</p>
+<br>
+  <img src="https://github.com/user-attachments/assets/58cb150d-71e2-4cb7-9d91-9558ae8dba61" width="80%" alt="a pop up window from user account control asking whether the user allows the installation of wire shark. The user must enter the administrator account password and choose yes."/>
+  <br />
+  <br />
 - <b>Section Name</b>
 <p>Description</p>
 <br>
@@ -97,4 +103,3 @@ As a final step in this section I answered the question "What is the meaning of 
   Step Five: <br />
   <img src="" width="80%" alt="image five"/>
 </p>
-
