@@ -56,26 +56,24 @@ As a final step in this section I answered the question "What is the meaning of 
   <img src="https://github.com/user-attachments/assets/beddce73-b8aa-4b1f-ab1a-376a44abc842" width="80%" alt="white background with the question in black text and the answer in a gray rectangle with rounded corners and next to the answer field is a lime green correct answer. The question says What is the system variable for the Windows folder and the answer says modulo win dir modulo."/>
 </p>
 - <b>User Accounts, Profiles, and Permissions</b>
-<p>Description</p>
+<p>This section gives an overview of users and the basics of creating and managing local user accounts.</p>
 <br>
-<p align="center">Step One: <br/>
-  <img src="" width="80%" alt="image one"/>
+<p align="center">I invesitaget the users of the system attached to the lab. The first question asked "What is the name of the other user account?" and initially I looked under Other Users in the settings menu and found a user named TRY HACK ME. I entered this into the answer field and it was not accepted. I then went to local user and group management where I was able to see that the name is in fact tryhackmebilly, and then in the user properties the full name is set to display try hack me.<br/>
+  <img src="https://github.com/user-attachments/assets/266c93fc-840b-46fb-a672-3c765a3024d4" width="80%" alt="other users settings window showing one user by the name of Try Hack Me"/>
+  <br />
+  <img src="https://github.com/user-attachments/assets/9a26c7b2-1067-4eab-81db-adc6d21b3e45" width="80%" alt="local user and group management window with a smaller window over top titled try hack me billy properties. In the full name field is the name try hack me in all caps."/>
   <br />
   <br />
-  Step Two: <br />
-  <img src="" width="80%" alt="image two"/>
+  The next question asks what groups tryhackmebilly is a member of. To find this information I stayed in the local user and group management and switched to the member of tab in the properties window. There I found a list of the groups this user is a member of, in this case tryhackmebilly is a member of Remote Desktop Users and Users.<br />
+  <img src="https://github.com/user-attachments/assets/609518dc-b374-4e33-bed2-6829e8046dd0" width="80%" alt="the members of tab of the user properties window in local user and group management. There are two items in the list remote desktop users and users."/>
   <br />
   <br />
-  Step Three: <br />
-  <img src="" width="80%" alt="image three"/>
+  The last question in the set asks what the description of the user account is, and that can be found back on the general tab of the properties window. The description of this user is window$Fun1! <br />
+  <img src="https://github.com/user-attachments/assets/74f575a6-5e99-48cb-9ed1-9e1e5ba7e094" width="80%" alt="the general tab which shows the full name of the user and the description. The description can be read as windows fun one, but is typed with a dollar sign in place of the s"/>
    <br />
   <br />
-  Step Four: <br />
-  <img src="" width="80%" alt="image four"/>
-   <br />
-  <br />
-  Step Five: <br />
-  <img src="" width="80%" alt="image five"/>
+ There was one other question, "What built-in account is for guest access to the computer?" and, logically, this is called guest.<br />
+  <img src="https://github.com/user-attachments/assets/fc4d5773-f71f-44f4-9fb4-c11e2fbc4dda" width="80%" alt="try hack me question and answer section with a white background and lime green accents. The questions and answers correspond to what was laid out in the previous steps."/>
 </p>
 - <b>Section Name</b>
 <p>Description</p>
@@ -99,3 +97,4 @@ As a final step in this section I answered the question "What is the meaning of 
   Step Five: <br />
   <img src="" width="80%" alt="image five"/>
 </p>
+
