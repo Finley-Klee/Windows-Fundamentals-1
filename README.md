@@ -13,9 +13,12 @@ The Windows fundamentals module from TryHackMe provides a general overview of th
 - <b>Windows Editions</b>
 <p>In the first section of this room I learned a bit of the history of the previous Windows editions as well as information about the differences between the home and pro versions of the current Windows edition - Windows 11.</p>
 <br>
-<p align="center">After reading the informational text in the TryHackMe room, I consulted the comparison table for the Winows 11 home vs. Windows 11 pro editions<br/>
+<p align="center">After reading the informational text in the TryHackMe room, I consulted the comparison table for the Winows 11 home vs. Windows 11 pro editions
+  <br/>
   <img src="https://github.com/user-attachments/assets/ef3895f7-304b-45c6-b6d9-bbd7d2e83513" width="80%" alt="image one"/>
- Using the information in the comparison table, I was able to answer the question "What encryption can you enable on Pro that you can't enable in Home?" with the name Bitlocker.<br />
+  <br />
+ Using the information in the comparison table, I was able to answer the question "What encryption can you enable on Pro that you can't enable in Home?" with the name Bitlocker.
+  <br />
   <img src="https://github.com/user-attachments/assets/6f81553e-9dea-4db5-bdae-7640025912c3" width="80%" alt="image two"/>
 </p>
 <br />
@@ -23,11 +26,13 @@ The Windows fundamentals module from TryHackMe provides a general overview of th
 - <b>The Desktop (GUI)</b>
 <p>This section gave a map for the Windows desktop, start menu, and various settings such as display, background, and the taskbar. </p>
 <br>
-<p align="center">After reading about navigating the desktop, and using the attached virtual machine to explore myself, I searched the desktop environment for the answers to the questions at the end of the sectio. The First question was "Which selection will hide/disable the Search box?" I found the answer to this question by right clicking on the taskbar and then clicking on search, which gave me the option to either show search icon, or select hidden.<br/>
+<p align="center">After reading about navigating the desktop, and using the attached virtual machine to explore myself, I searched the desktop environment for the answers to the questions at the end of the sectio. The First question was "Which selection will hide/disable the Search box?" I found the answer to this question by right clicking on the taskbar and then clicking on search, which gave me the option to either show search icon, or select hidden.
+  <br/>
   <img src="https://github.com/user-attachments/assets/5e9e31b0-ecea-4664-9e3d-0e291badf01b" width="80%" alt="dark gray menu for the taskbar settings with search selected. A second smaller menu is seen to the right of the main menu with the options hidden and show search icon. A red rectangle is around this smaller menu to draw attention to this information."/>
   <br />
   <br />
-In the same taskbar menu, I can see an option which answers the second question "Which selection will hide/disable the Task View button?" Currently the selection "Show task view button" has a checkmark next to it, indicating it is currently enabled. By clicking it again I can disable it.<br />
+In the same taskbar menu, I can see an option which answers the second question "Which selection will hide/disable the Task View button?" Currently the selection "Show task view button" has a checkmark next to it, indicating it is currently enabled. By clicking it again I can disable it.
+  <br />
   <img src="https://github.com/user-attachments/assets/30d83f6f-e049-430f-92cf-652b9d6ebfe6" width="80%" alt="dark gray menu for the taskbar with a red rectangle around the option show task view button"/>
   <br />
   <br />
@@ -78,10 +83,10 @@ As a final step in this section I answered the question "What is the meaning of 
 - <b>User Account Control</b>
 <p>Most home users are logged into their Windows systems as local administrators, giving them high level privileges to make system changes. These elevated privileges are unnecessary for the majority of the tasks they will do like surfing the web, working on a word document, etc. Because this opens the system up to risk if malware is able to infect the system, Microsoft introduced User Account Control (UAC). UAC limits the permissions of administrator accounts (besides the built-in local administrator by default) and when an action requiring elevated privileges needs to execute, the user is prompted to confirm if they permit the operation to run.</p>
 <br>
-  <img src="https://github.com/user-attachments/assets/58cb150d-71e2-4cb7-9d91-9558ae8dba61" width="80%" alt="a pop up window from user account control asking whether the user allows the installation of wire shark. The user must enter the administrator account password and choose yes."/>
+  <img src="https://github.com/user-attachments/assets/58cb150d-71e2-4cb7-9d91-9558ae8dba61" align="center" width="80%" alt="a pop up window from user account control asking whether the user allows the installation of wire shark. The user must enter the administrator account password and choose yes."/>
   <br />
   <br />
-- <b>Section Name</b>
+- <b>Settings and the Control Panel</b>
 <p>Description</p>
 <br>
 <p align="center">Step One: <br/>
