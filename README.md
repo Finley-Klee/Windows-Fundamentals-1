@@ -108,3 +108,26 @@ As a final step in this section I answered the question "What is the meaning of 
   Step Five: <br />
   <img src="" width="80%" alt="image five"/>
 </p>
+- <b>Task Manager</b>
+<p>Description</p>
+<br>
+<p align="center">Step One: <br/>
+  <img src="" width="80%" alt="image one"/>
+  <br />
+  <br />
+  Step Two: <br />
+  <img src="" width="80%" alt="image two"/>
+  <br />
+  <br />
+  Step Three: <br />
+  <img src="" width="80%" alt="image three"/>
+   <br />
+  <br />
+  Step Four: <br />
+  <img src="" width="80%" alt="image four"/>
+   <br />
+  <br />
+  Step Five: <br />
+  <img src="" width="80%" alt="image five"/>
+</p>
+
